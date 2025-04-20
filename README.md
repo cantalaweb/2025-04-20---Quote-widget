@@ -24,4 +24,7 @@ This creates an iOS widget, which displays a famous random quote.
 ## Caveats
 - The widget should load a new quote every few minutes (not less than 5), but it is not possible to refresh the data at a precise interval. Apple determines its refresh rate, which is normally every few minutes. 
 
+## Tech stack
+- Javascript
+- [Scriptable](https://scriptable.app)
 
