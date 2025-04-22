@@ -15,6 +15,7 @@
 
 ## Introduction
 This creates an iOS widget, which displays a famous random quote every few minutes. It uses the free [Quotes-API](https://github.com/theriturajps/Quotes-API) to fetch the quotes.
+
 <img src='home_screen.png' width='400' />
 
 ## Requirements
