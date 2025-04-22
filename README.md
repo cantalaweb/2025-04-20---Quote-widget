@@ -1,6 +1,20 @@
+<!-- Title -->
+<h1 align='center'> Bus arrivals widget for iOS </h1>
+
+
+<!-- tag line -->
+<h3 align='center'> For Valencia, Spain </h3>
+
+<!-- tech stack badges ---------------------------------- -->
+<p align='center'>
+  <img src='https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23101010&color=%23101010' />
+  <img src='https://img.shields.io/badge/_-18-grey?style=flat&logo=ios&labelColor=%23101010' />
+</p>
+<br/>
+
 ## Introduction
 This creates an iOS widget, which displays a famous random quote every few minutes. It uses the free [Quotes-API](https://github.com/theriturajps/Quotes-API) to fetch the quotes.
-![](home_screen.png)
+<img src='home_screen.png' width='400' />
 
 ## Requirements
 - [Scriptable](https://scriptable.app) must be installed in your iOS device.
