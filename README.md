@@ -1,9 +1,9 @@
 <!-- Title -->
-<h1 align='center'> Bus arrivals widget for iOS </h1>
+<h1 align='center'> Random quote widget for iOS </h1>
 
 
 <!-- tag line -->
-<h3 align='center'> For Valencia, Spain </h3>
+<h3 align='center'> For inspiration </h3>
 
 <!-- tech stack badges ---------------------------------- -->
 <p align='center'>
